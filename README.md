@@ -27,9 +27,10 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 - Python’s built-in methods can be combined powerfully (`join`, `reversed`, `isalnum`).
 - Learned about generator expressions and how they can provide memory-efficient iteration for large datasets.
 - Simple edge cases (like empty strings or one-letter inputs) are crucial!
+- Learnt about using slicing to manipulate strings
 
 ## 📈 Stats
-Problems solved: 15  
-Last updated: Oct 26, 2025
+Problems solved: 3  
+Last updated: Oct 27, 2025
 
 
