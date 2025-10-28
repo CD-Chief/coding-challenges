@@ -28,9 +28,11 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 - Learned about generator expressions and how they can provide memory-efficient iteration for large datasets.
 - Simple edge cases (like empty strings or one-letter inputs) are crucial!
 - Learnt about using slicing to manipulate strings
+- Learnt to use pythons switch case (match case)
+- Learnt to use negative indexes to iterate from the back of lists
 
 ## 📈 Stats
-Problems solved: 3  
-Last updated: Oct 27, 2025
+Problems solved: 4  
+Last updated: Oct 28, 2025
 
 
