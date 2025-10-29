@@ -30,9 +30,10 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 - Learnt about using slicing to manipulate strings
 - Learnt to use pythons switch case (match case)
 - Learnt to use negative indexes to iterate from the back of lists
+- Need to handle the last element in an array when doing comparisons in a loop
 
 ## 📈 Stats
-Problems solved: 4  
-Last updated: Oct 28, 2025
+Problems solved: 5  
+Last updated: Oct 29, 2025
 
 
