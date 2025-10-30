@@ -17,6 +17,8 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 ## Progress Log
 
+### Week 2 (Oct 27 - Nov 1, 2025)
+In progress
 ### Week 1 (Oct 20–Oct 26, 2025)
 Solved 1 problem, Merge sorted array.
 I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
@@ -24,16 +26,17 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 
 ## Lessons Learned
 
-- Python’s built-in methods can be combined powerfully (`join`, `reversed`, `isalnum`).
+- Python’s built-in methods can be combined (`join`, `reversed`, `isalnum`).
 - Learned about generator expressions and how they can provide memory-efficient iteration for large datasets.
 - Simple edge cases (like empty strings or one-letter inputs) are crucial!
 - Learnt about using slicing to manipulate strings
 - Learnt to use pythons switch case (match case)
 - Learnt to use negative indexes to iterate from the back of lists
 - Need to handle the last element in an array when doing comparisons in a loop
+- Don't make assumptions unless explicitly stated
 
 ## 📈 Stats
-Problems solved: 5  
-Last updated: Oct 29, 2025
+Problems solved: 6  
+Last updated: Oct 30, 2025
 
 
