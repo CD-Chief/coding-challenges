@@ -11,7 +11,7 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 ## How to Use
 
-- Browse by platform and topic folders under `Leetcode/`.
+- Browse by topic folders under `Leetcode/`.
 - Each solution file contains a short explanation at the top when helpful.
 - Add new solutions as you solve problems; keep file names consistent (e.g., `<problem-number>. <title>.py`).
 
@@ -36,7 +36,7 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 - Don't make assumptions unless explicitly stated
 
 ## 📈 Stats
-Problems solved: 6  
-Last updated: Oct 30, 2025
+Problems solved: 7  
+Last updated: Oct 31, 2025
 
 
