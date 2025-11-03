@@ -34,9 +34,10 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 - Learnt to use negative indexes to iterate from the back of lists
 - Need to handle the last element in an array when doing comparisons in a loop
 - Don't make assumptions unless explicitly stated
+- Visualize the problem and the solution before starting
 
 ## 📈 Stats
-Problems solved: 7  
-Last updated: Oct 31, 2025
+Problems solved: 8  
+Last updated: Nov 3, 2025
 
 
