@@ -35,9 +35,12 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 - Need to handle the last element in an array when doing comparisons in a loop
 - Don't make assumptions unless explicitly stated
 - Visualize the problem and the solution before starting
+- Go about recursion systematically
 
 ## 📈 Stats
-Problems solved: 8  
-Last updated: Nov 3, 2025
+Total Problems solved: 9
+Leetcode: 8
+Hackerank: 1
+Last updated: Nov 4, 2025
 
 
