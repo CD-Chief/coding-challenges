@@ -38,9 +38,9 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 - Go about recursion systematically
 
 ## 📈 Stats
-Total Problems solved: 11
+Total Problems solved: 12
 Leetcode: 10
 Hackerank: 1
-Last updated: Nov 6, 2025
+Last updated: Nov 7, 2025
 
 
