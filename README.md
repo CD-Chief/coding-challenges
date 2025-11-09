@@ -24,23 +24,33 @@ Solved 1 problem, Merge sorted array.
 I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 
 
-## Lessons Learned
+## Lessons Learned (newest first)
 
-- Python’s built-in methods can be combined (`join`, `reversed`, `isalnum`).
-- Learned about generator expressions and how they can provide memory-efficient iteration for large datasets.
-- Simple edge cases (like empty strings or one-letter inputs) are crucial!
-- Learnt about using slicing to manipulate strings
-- Learnt to use pythons switch case (match case)
-- Learnt to use negative indexes to iterate from the back of lists
-- Need to handle the last element in an array when doing comparisons in a loop
-- Don't make assumptions unless explicitly stated
+- Learnt about dynamic programming
+- Go about recursion systematically (base case etc)
 - Visualize the problem and the solution before starting
-- Go about recursion systematically
+- Don't make assumptions unless explicitly stated
+- Need to handle the last element in an array when doing comparisons in a loop
+- Learnt to use negative indexes to iterate from the back of lists
+- Learnt to use pythons switch case (match case)
+- Learnt about using slicing to manipulate strings
+- Simple edge cases (like empty strings or one-letter inputs) are crucial!
+- Learned about generator expressions and how they can provide memory-efficient iteration for large datasets.
+- Python’s built-in methods can be combined (`join`, `reversed`, `isalnum`).
+
+
+
+
+
+
+
+
+
 
 ## 📈 Stats
-Total Problems solved: 12
-Leetcode: 10
+Total Problems solved: 13
+Leetcode: 12
 Hackerank: 1
-Last updated: Nov 7, 2025
+Last updated: Nov 9, 2025
 
 
