@@ -15,13 +15,13 @@ I update this repo regularly with new problems, solution notes, and learnings as
 - Each solution file contains a short explanation at the top when helpful.
 - Add new solutions as you solve problems; keep file names consistent (e.g., `<problem-number>. <title>.py`).
 
-## Progress Log
 
-### Week 2 (Oct 27 - Nov 1, 2025)
-In progress
-### Week 1 (Oct 20–Oct 26, 2025)
-Solved 1 problem, Merge sorted array.
-I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
+## 📈 Stats
+### Last updated: Nov 11, 2025
+### Total Problems solved: 14
+Leetcode: 13
+Hackerank: 1
+
 
 
 ## Lessons Learned (newest first)
@@ -39,10 +39,5 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 - Python’s built-in methods can be combined (`join`, `reversed`, `isalnum`).
 
 
-## 📈 Stats
-Total Problems solved: 14
-Leetcode: 13
-Hackerank: 1
-Last updated: Nov 11, 2025
 
 
