@@ -39,18 +39,10 @@ I now plan to solve 1 problem everday as well as 2 Hackerrank tests per week
 - Python’s built-in methods can be combined (`join`, `reversed`, `isalnum`).
 
 
-
-
-
-
-
-
-
-
 ## 📈 Stats
-Total Problems solved: 13
-Leetcode: 12
+Total Problems solved: 14
+Leetcode: 13
 Hackerank: 1
-Last updated: Nov 9, 2025
+Last updated: Nov 11, 2025
 
 
