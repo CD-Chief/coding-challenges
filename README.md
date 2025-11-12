@@ -17,9 +17,9 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 
 ## 📈 Stats
-### Last updated: Nov 11, 2025
-### Total Problems solved: 14
-Leetcode: 13
+### Last updated: Nov 12, 2025
+### Total Problems solved: 15
+Leetcode: 14
 Hackerank: 1
 
 
