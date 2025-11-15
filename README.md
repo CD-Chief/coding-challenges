@@ -18,14 +18,15 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 ## 📈 Stats
 ### Last updated: Nov 13, 2025
-### Total Problems solved: 17
-Leetcode: 15
+### Total Problems solved: 18
+Leetcode: 16
 Hackerank: 2
 
 
 
 ## Lessons Learned (newest first)
 
+- Learnt about comparing binary trees via structure
 - Learnt about dynamic programming
 - Go about recursion systematically (base case etc)
 - Visualize the problem and the solution before starting
