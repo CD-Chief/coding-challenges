@@ -12,14 +12,14 @@ I update this repo regularly with new problems, solution notes, and learnings as
 ## How to Use
 
 - Browse by topic folders under `Leetcode/`.
-- Each solution file contains a short explanation at the top when helpful.
+- Each solution file (should) contains a short thought process to my solution at the top as well as **Issue :** when i realize my solution does not work
 - I Add new solutions as I solve problems and keep file names consistent (e.g., `<problem-number>. <title>.py`).
 
 
 ## 📈 Stats
-### Last updated: Nov 13, 2025
-### Total Problems solved: 18
-Leetcode: 16
+### Last updated: Nov 16, 2025
+### Total Problems solved: 19
+Leetcode: 17
 Hackerank: 2
 
 
