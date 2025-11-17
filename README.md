@@ -17,9 +17,12 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 
 ## 📈 Stats
-### Last updated: Nov 16, 2025
-### Total Problems solved: 19
-Leetcode: 17
+### Last updated: Nov 17, 2025
+### Total Problems solved: 20
+Leetcode: 18
+
+1 Medium
+
 Hackerank: 2
 
 
