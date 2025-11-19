@@ -18,8 +18,8 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 ## 📈 Stats
 ### Last updated: Nov 17, 2025
-### Total Problems solved: 22
-Leetcode: 19
+### Total Problems solved: 23
+Leetcode: 20
 
 1 Medium
 
