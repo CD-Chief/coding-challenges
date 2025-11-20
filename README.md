@@ -17,7 +17,7 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 
 ## 📈 Stats
-### Last updated: Nov 17, 2025
+### Last updated: Nov 20, 2025
 ### Total Problems solved: 24
 Leetcode: 21
 
