@@ -17,9 +17,9 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 
 ## 📈 Stats
-### Last updated: Nov 20, 2025
-### Total Problems solved: 24
-Leetcode: 21
+### Last updated: Nov 22, 2025
+### Total Problems solved: 25
+Leetcode: 22
 
 1 Medium
 
@@ -29,6 +29,8 @@ Hackerank: 2
 
 ## Lessons Learned (newest first)
 
+- Learnt how to operate with linkedLists
+- Don't always need to store the var's passed in from a method
 - Learnt about comparing binary trees via structure
 - Learnt about dynamic programming
 - Go about recursion systematically (base case etc)
