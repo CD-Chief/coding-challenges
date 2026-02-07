@@ -17,9 +17,9 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 
 ## 📈 Stats
-### Last updated: Jan 26th, 2026
-### Total Problems solved: 35
-Leetcode: 29
+### Last updated: Feb 7th, 2026
+### Total Problems solved: 36
+Leetcode: 30
 
 - 5 Intermediate
 
@@ -29,6 +29,7 @@ Hackerank: 2
 
 ## Lessons Learned (newest first)
 
+- It's not wrong to copy algorithms as long as you understand them
 - Learnt how to operate with linkedLists
 - Don't always need to store the var's passed in from a method
 - Learnt about comparing binary trees via structure
