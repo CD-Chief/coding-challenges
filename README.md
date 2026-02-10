@@ -17,13 +17,13 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 
 ## 📈 Stats
-### Last updated: Feb 9th, 2026
-### Total Problems solved: 37
+### Last updated: Feb 10th, 2026
+### Total Problems solved: 38
 Leetcode: 31
 
 - 5 Intermediate
 
-Hackerank: 2
+Hackerank: 3
 
 
 
