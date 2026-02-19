@@ -18,10 +18,10 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 ## 📈 Stats
 ### Last updated: Feb 11th, 2026
-### Total Problems solved: 39
-Leetcode: 32
+### Total Problems solved: 40
+Leetcode: 33
 
-- 5 Intermediate
+- 6 Intermediate
 
 Hackerank: 3
 
@@ -29,6 +29,7 @@ Hackerank: 3
 
 ## Lessons Learned (newest first)
 
+- Learnt more about dynamic programming
 - It's not wrong to copy algorithms as long as you understand them
 - Learnt how to operate with linkedLists
 - Don't always need to store the var's passed in from a method
