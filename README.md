@@ -17,9 +17,9 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 
 ## 📈 Stats
-### Last updated: Feb 11th, 2026
-### Total Problems solved: 40
-Leetcode: 33
+### Last updated: Feb 24th, 2026
+### Total Problems solved: 41
+Leetcode: 34
 
 - 6 Intermediate
 
