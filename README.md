@@ -17,18 +17,17 @@ I update this repo regularly with new problems, solution notes, and learnings as
 
 
 ## 📈 Stats
-### Last updated: Feb 24th, 2026
-### Total Problems solved: 41
-Leetcode: 34
+### Last updated: March 11th, 2026
+### Total Problems solved: 43
+Leetcode: 35
 
-- 6 Intermediate
+- 7 Intermediate
 
 Hackerank: 3
 
-
-
 ## Lessons Learned (newest first)
 
+- When time limit is exceeded. Try to only compute what is needed and not known
 - Learnt more about dynamic programming
 - It's not wrong to copy algorithms as long as you understand them
 - Learnt how to operate with linkedLists
